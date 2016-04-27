@@ -3,8 +3,11 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: silver;
+  font-family: "Roboto Slab";
 }
 #map {
   width: 500px;
   height: 500px;
+  padding: 20px;
+  margin: 20px;
 }
