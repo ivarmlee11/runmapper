@@ -35,8 +35,8 @@ mapPath();
 
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: 47, lng: -122},
-    zoom: 8
+    center: {lat: 47.6, lng: -122.35},
+    zoom: 14
   });
 
   // Add marker on user click
